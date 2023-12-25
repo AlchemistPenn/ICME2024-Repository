@@ -17,5 +17,5 @@ This is a preprint version for  2024 ICME.
 
 ## Usage
 
-The file `main.py` includes all module, load the `.pth` file and emotion dataset。 Run it.
+The file `main.py` includes all module. Load the `.pth` file and replace the emotion dataset. Run it.
 
