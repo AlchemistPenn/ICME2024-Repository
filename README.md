@@ -1,4 +1,4 @@
-# Multi-Channel Full Scene Integrated Visual Emotion Analysis Network  
+# Multi-Dimension Full Scene Integrated Visual Emotion Analysis Network  
 ![network](network.png)
 The Pytorch implementation of “Multi-Dimension Full Scene Integrated Visual Emotion Analysis Network”
 
