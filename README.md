@@ -17,5 +17,6 @@ This is a preprint version for  2024 ICME.
 
 ## Usage
 
-The file `main.py` includes all module. Load the `.pth` file and replace the emotion dataset. Run it.
+All the code is in the folder ‘src’, you just need to run the mian.py file, in between you need to replace your model, data set and so on the correct path. Run it.
+Our pretrained model is coming soon.
 
