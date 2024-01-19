@@ -167,7 +167,7 @@ if __name__ == '__main__':
                                                batch_size=batch_size, shuffle=True,
                                                num_workers=24)
 
-    validate_dataset = ImageFolderWithPaths(root=os.path.join(image_path, "111"),
+    validate_dataset = ImageFolderWithPaths(root=os.path.join(image_path, "valid"),
                                             transform=data_transform["valid"])
     val_num = len(validate_dataset)
     validate_loader = torch.utils.data.DataLoader(validate_dataset,
