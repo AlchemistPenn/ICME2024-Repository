@@ -26,7 +26,7 @@ from torch.optim.lr_scheduler import CosineAnnealingLR
 import seaborn as sns
 from torch.optim import lr_scheduler
 classes_num = 8
-from ECA import eca_resnet101
+from ECANet.ECA import eca_resnet101
 cuda_index = 3
 
 
