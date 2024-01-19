@@ -17,6 +17,12 @@ This is a preprint version for  2024 ICME.
 
 ## Usage
 
-All the code is in the folder ‘src’, you just need to run the `main.py`  file, in between you need to replace your model, data set and so on the correct path. Run it.
+All the code is in the folder ‘src’, you just need to run the `main.py`  file. Before running, you need to need to replace your model, data set and so on the correct path:
+- Line36: load the pre-trained model (eca-renset101 with Imagenet)  
+- Line40:  load the pre-trained model (resnet18 with FER2013)
+- Line155: with your path of dateset (ImageNet-like)
+
+Run it.
+
 Our pretrained model is coming soon.
 
