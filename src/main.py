@@ -184,6 +184,7 @@ if __name__ == '__main__':
     model.to(device)
 
     loss_function = nn.CrossEntropyLoss()
+    loss_function = fine_class_loss()
 
     optimizer =  optim.SGD((param for param in model.parameters()), lr=0.0001, momentum=0.9,weight_decay=0.0005)
 
