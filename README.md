@@ -2,7 +2,7 @@
 ![network](network.png)
 The Pytorch implementation of “Multi-Dimension Full Scene Integrated Visual Emotion Analysis Network”.
 
-This is a preprint version for  2024 ICME.
+This is a preprint version for  2025 MMM.
 
 ## Requirements 
 
